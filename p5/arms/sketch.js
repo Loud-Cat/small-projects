@@ -16,7 +16,7 @@ function setup() {
 
   // rotation time of the spinning outer "arms"
   rt = 0;
-  rt1 = PI/2;
+  rt1 = PI / 2;
 
   // lists of points to draw each frame
   p = [];
