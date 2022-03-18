@@ -97,7 +97,7 @@ function draw() {
   rt1 += 0.05;
   
   // Reset t values after each loop
-  if (t > PI * 2) {
+  if (t > TWO_PI) {
     t = 0;
     t1 = PI;
 
