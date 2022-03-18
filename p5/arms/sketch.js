@@ -95,4 +95,13 @@ function draw() {
   // So does rotation time
   rt += 0.05;
   rt1 += 0.05;
+  
+  // Reset t values after each loop
+  if (t > PI * 2) {
+    t = 0;
+    t1 = PI;
+
+    rt = 0;
+    rt1 = PI / 2;
+  }
 }
