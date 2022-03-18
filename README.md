@@ -8,4 +8,4 @@ Mineature projects that aren't worth their own repositories
 
 ### p5
 #### Mechanical Arms
-![Preview](/arms/preview.gif)
+![Preview](/p5/arms/preview.gif)
