@@ -9,3 +9,6 @@ Categories include:
 ## p5
 ### Mechanical Arms
 ![Preview](/p5/arms/preview.gif)
+
+### Circle Pen
+![Preview](/p5/circle-pen/preview.gif)
