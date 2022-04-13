@@ -22,7 +22,7 @@ function draw() {
   let x1, y1, x2, y2;
 
   beginShape();
-  for (let t = 0; t <= timer; t+= INCREMENT) {
+  for (let t = 0; t <= timer; t += INCREMENT) {
     x1 = 100 * cos(t);
     y1 = 100 * sin(t);
 
