@@ -12,3 +12,6 @@ Categories include:
 
 ### Circle Pen
 ![Preview](/p5/circle-pen/preview.gif)
+
+### Approximating a sphere
+![Preview](/p5/sphere/preview.gif)
