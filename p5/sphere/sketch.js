@@ -37,6 +37,6 @@ function draw() {
   }
 
   // stop looping when the animation is finished
-  if (stop_anim && frameCount / 250 > TWO_PI)
+  if (stop_anim && frameCount / 250 > PI)
     noLoop();
 }
