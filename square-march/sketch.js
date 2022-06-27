@@ -3,7 +3,7 @@ let rows, cols;
 let rez = 20;
 
 function setup() {
-  createCanvas(windowWidth, windowWidth);
+  createCanvas(400, 400);
   rows = 1 + height / rez;
   cols = 1 + width / rez;
   
