@@ -1,6 +1,6 @@
 
 PVector[] morph;
-PVector[] vertices = new PVector[0];
+PVector[] vertices;
 boolean state = false, recording = false;
 
 int radius = 200;
@@ -11,6 +11,7 @@ int sides = 3;
 void setup() {
   size(600, 600);
   morph = new PVector[FRAMES];
+  vertices = new PVector[0];
 
   for (int i = 0; i < morph.length; i++) {
     morph[i] = new PVector();
