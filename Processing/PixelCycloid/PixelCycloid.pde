@@ -6,7 +6,7 @@
  * Finally, pressing SPACE will hide or reveal the GUI
  */
 
-boolean recording = true;
+boolean recording = false;
 PGraphics pg;
 
 int FRAMES = 100;
