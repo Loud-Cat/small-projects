@@ -31,6 +31,6 @@ It also includes a GUI for controlling the inner circle's rotation speed and siz
 
 Additionally, it includes the option to "pixelate" the resulting animation, giving a "pixel art" effect
 
-![Preview](/Processing/PixelCycloid/preview-pixel-gui.gif)
+![Preview](/Processing/PixelCycloid/preview-pixel-nogui.gif)
 
 Finally, pressing SPACE will hide or reveal the GUI
