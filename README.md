@@ -22,3 +22,5 @@ Categories include:
 This program animates a controllable hypocycloid (a circle rolling inside a larger circle) with an optional "pixel-art" effect
 ![Preview](/Processing/PixelCycloid/preview-pixel-gui.gif)
 ![Preview](/Processing/PixelCycloid/preview-nopixel-gui.gif)
+![Preview](/Processing/PixelCycloid/preview-pixel-gui-controls.gif)
+![Preview](/Processing/PixelCycloid/preview-nopixel-nogui.gif)
