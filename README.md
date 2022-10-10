@@ -19,8 +19,14 @@ Categories include:
 
 ## Processing
 ### PixelCycloid
-This program animates a controllable hypocycloid (a circle rolling inside a larger circle) with an optional "pixel-art" effect
-![Preview](/Processing/PixelCycloid/preview-pixel-gui.gif)
-![Preview](/Processing/PixelCycloid/preview-nopixel-gui.gif)
-![Preview](/Processing/PixelCycloid/preview-pixel-gui-controls.gif)
 ![Preview](/Processing/PixelCycloid/preview-nopixel-nogui.gif)
+This program animates a hypocycloid (a circle rolling inside a larger circle)
+
+![Preview](/Processing/PixelCycloid/preview-nopixel-gui.gif)
+It also includes a GUI for controlling the inner circle's rotation speed and size
+
+![Preview](/Processing/PixelCycloid/preview-pixel-gui-controls.gif)
+Additionally, it includes the option to "pixelate" the resulting animation, giving a "pixel art" effect
+
+![Preview](/Processing/PixelCycloid/preview-pixel-gui.gif)
+Finally, pressing SPACE will hide or reveal the GUI
