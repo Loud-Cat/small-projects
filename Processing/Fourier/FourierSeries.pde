@@ -44,7 +44,7 @@ void draw() {
   // ngl I messed around until I got interesting results
   
   // Note: if you don't want to use the ternary,
-  // sin(-HALF_PI + PI * i) will habe the same affect
+  // sin(-HALF_PI + PI * i) will have the same affect
   // but you'll have to cast it to an int
   
   for (int i = 0; i < COUNT; i++)
